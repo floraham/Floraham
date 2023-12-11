@@ -7,5 +7,5 @@
 - 😄 Pronouns: she/her
 
   
-## Find my personal website at: [floraham.github.io](floraham.github.io)
+
 
