@@ -1,4 +1,4 @@
-### Hi, I'm Flora (she/her)!
+### Hi, I'm Flora!
 
 - 🔭 Current Master of Environmental Data Science at the Bren School of Environmental Science and Management, UC Santa Barbara
 - 🌱 Learning advanced visualization techniques & ML for environmental datasets
