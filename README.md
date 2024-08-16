@@ -1,13 +1,14 @@
-### Hi, I'm Flora!
+Hi, I'm Flora! 🌿
 
-- 🌱 Learning advanced vis techniques & machine learning for supporting environmental research
-- 🔭 Just finished my Master of Environmental Data Science at the Bren School of Environmental Science and Management, UCSB
-- 💬 Ask me about my Master's capstone project with Darn Tough VT: "Creating a Reproducible Model of Annual CO2e Emissions Outputs for a Sock Manufacturer's Supply Chain" 🧦 
-- ❄️ 🔥 Currently collaborating with NASA DEVELOP and Colorado State University, utilizing LiDAR snow characteristics to understand wildfire impacts on snow dynamics in Northern CO. 
-- 📫 How to reach me: my LinkedIn
-- Other interests: music theory, jazz/classical piano, sci-fi, hiking, learning French & Japanese 
-
-
+- Current Data Analyst at the Natural Resource and Ecology Lab (NREL) and NASA DEVELOPer (summer & fall '24) 
+- 🎓 Recent Master of Environmental Data Science graduate from UCSB's Bren School
+- 🌱 Specializing in advanced visualization techniques & machine learning for environmental research
+- 🧦 Led a capstone project with Darn Tough VT on modeling CO2e emissions in sock manufacturing supply chains
+- ❄️🔥 Collaborating with NASA DEVELOP & NREL on LiDAR snow-wildfire dynamics research
+- 💻 Tech stack: Python, R | learning: SQL, Javascript, GEE
+- 🌐 floraham.github.io
+- 📫 Connect: [LinkedIn ](https://www.linkedin.com/in/flora-hamilton-946980122/)
+- 🎹 Off-screen: Jazz/classical pianist, sci-fi enthusiast, hiker, aspiring polyglot (Mandarin literature, French, Japanese)
   
 
 
