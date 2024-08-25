@@ -8,7 +8,7 @@ Hi, I'm Flora! 🌿
 - 💻 Tech stack: Python, R | learning: SQL, Javascript, GEE
 - 🌐 floraham.github.io
 - 📫 Connect: [LinkedIn ](https://www.linkedin.com/in/flora-hamilton-946980122/)
-- 🎹 Off-screen: Jazz/classical pianist, sci-fi enthusiast, hiker, aspiring polyglot (Mandarin literature, French, Japanese)
+- 🎹 Off-screen: pianist, sci-fi fan, hiker, aspiring polyglot (Mandarin literature, Taiwanese, French, Japanese)
   
 
 
