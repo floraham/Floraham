@@ -5,7 +5,7 @@ Hi, I'm Flora! 🌿
 - 💻 Coding stack: Python (pandas, NumPy, geopandas, xarray, netCDF4, rioxarray, Rasterio, Google Earth Engine API, scikit-learn, Matplotlib),
 R (tidyverse [tidyr, dplyr, tibble, purr, stringr, forcats, ggplot2], lubridate, raster)
 - On the horizon: SQL, JS, D3 
-- 🎹 Off-screen: pianist, sci-fi fan, hiker, language learning (Mandarin literature, Taiwanese, French, Japanese)
+- 🎹 Off-screen: pianist, sci-fi fan, hiker, language learning (Mandarin, Taiwanese, French, Japanese)
   
 
 
